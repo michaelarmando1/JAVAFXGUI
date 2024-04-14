@@ -1,0 +1,28 @@
+.root{
+    -fx-background-color: #2B2B2B;
+}
+
+.text-field {
+
+    -fx-background-color: #2B2B2B;
+    -fx-text-fill: #ffff;
+    -fx-font-size:20;
+}
+
+.button {
+    -fx-background-color: #383838;
+    -fx-text-fill: #ffff;
+}
+
+.button:hover {
+    -fx-background-color: gray;
+}
+
+.button:pressed {
+    -fx-scale-y: 1.2;
+    -fx-scale-x: 1.2;
+}
+
+.operator-btn {
+    -fx-background-color: #0f4c81;
+}
